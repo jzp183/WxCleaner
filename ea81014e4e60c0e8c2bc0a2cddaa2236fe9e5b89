@@ -1,0 +1,3 @@
+Task: 编写 scanner.py 单元测试 (	ests/test_scanner.py)
+Summary: 编写针对 calculate_hash 与 find_duplicates 的全面单测，覆盖全量/头部哈希、空文件过滤、头部哈希冲突筛选及进度回调。
+Files: tests/test_scanner.py
