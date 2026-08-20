@@ -1,0 +1,3 @@
+Task: 配置 pytest 测试框架与 requirements.txt 更新
+Summary: 添加 pytest 依赖与 pytest.ini 配置文件，指定根目录搜索路径。
+Files: requirements.txt, pytest.ini
