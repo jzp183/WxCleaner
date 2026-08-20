@@ -1,3 +1,4 @@
-Task: 实现跨平台工具函数与集成 (Green Phase)
-Summary: 实现 platform_utils.py 并在 wx_gui.py 与 WxCleaner_bundled.py 中移除 windll/os.startfile 硬编码，适配跨平台字体、文件管理器唤起、微信默认路径与 ico 图标守卫。
-Files: platform_utils.py, wx_gui.py, WxCleaner_bundled.py, tests/test_cross_platform.py
+Phase 2 Checkpoint Report
+Automated Tests: 19 passed (python -m pytest)
+Manual Verification: Confirmed by user
+Scope: platform_utils.py, wx_gui.py, WxCleaner_bundled.py cross-platform integration
