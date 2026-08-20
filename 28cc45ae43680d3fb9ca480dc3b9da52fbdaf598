@@ -1,0 +1,3 @@
+Task: 编写跨平台工具函数单元测试 (Red Phase)
+Summary: 编写针对字体回退、文件管理器唤起、微信默认路径、ico图标守卫与路径规范化的 TDD 失败测试。
+Files: tests/test_cross_platform.py
