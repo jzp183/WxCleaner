@@ -1,3 +1,4 @@
-Task: 运行 pytest 验证算法测试通过与覆盖率
-Summary: 执行 pytest 自动化套件，6 项单测全部通过，scanner 算法覆盖率良好，消除警告配置。
-Files: pytest.ini
+Phase 1 Checkpoint Report
+Automated Tests: 6 passed (python -m pytest)
+Manual Verification: Confirmed by user
+Scope: Test framework setup, pytest.ini, test_scanner.py
